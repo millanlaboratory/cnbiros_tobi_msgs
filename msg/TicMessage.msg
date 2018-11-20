@@ -3,4 +3,4 @@ string 	pipe
 string 	version
 int32 	frame
 
-TicClassifier classifier 
+TicClassifier[] classifiers 
